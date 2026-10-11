@@ -35,8 +35,8 @@ Verbindung ueber
 
 Einrichtung auf dem Raspberry Pi.  
 Puefen ob ssh installiert ist  
->ssh -V  
-ssh Verbindung ermoeglichen 
+>ssh -V   
+ssh Verbindung ermoeglichen   
 >sudo raspi-config  
 Anschliessend Interface Options - ssh - enable   
 Pruefe ob der ssh-Dienst laeuft  
