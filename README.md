@@ -35,14 +35,19 @@ Verbindung ueber
 
 Einrichtung auf dem Raspberry Pi.  
 Puefen ob ssh installiert ist  
->ssh -V   
+>ssh -V  
+ 
 ssh Verbindung ermoeglichen   
->sudo raspi-config  
+>sudo raspi-config 
+ 
 Anschliessend Interface Options - ssh - enable   
 Pruefe ob der ssh-Dienst laeuft  
-> sudo sytemctl status ssh  
+> sudo sytemctl status ssh 
+ 
 Befehl aktivieren  
-> sudo sytemctl enable --now ssh  
+> sudo sytemctl enable --now ssh 
+
+ 
 
 
 
