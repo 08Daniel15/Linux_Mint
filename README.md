@@ -32,8 +32,9 @@ Falls noch nicht, ssh installieren
 Verbindung ueber  
 >ssh Benutzername@IPAdresse  
 
+
 Einrichtung auf dem Raspberry Pi.  
-Puefen ob ssh installiert ist
+Puefen ob ssh installiert ist  
 >ssh -V  
 ssh Verbindung ermoeglichen 
 >sudo raspi-config  
