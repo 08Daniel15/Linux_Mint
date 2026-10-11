@@ -24,6 +24,27 @@ Beim naechsen git push mit Benutzername anmelden und anstelle des Passwortes den
 
 
 
+## SSH
+Pruefen ob ssh bereits installiert ist.  
+>ssh -V  
+Falls noch nicht, ssh installieren  
+>sudo apt install openssh-client  
+Verbindung ueber  
+>ssh Benutzername@IPAdresse  
+
+Einrichtung auf dem Raspberry Pi.  
+Puefen ob ssh installiert ist
+>ssh -V  
+ssh Verbindung ermoeglichen 
+>sudo raspi-config  
+Anschliessend Interface Options - ssh - enable   
+Pruefe ob der ssh-Dienst laeuft  
+> sudo sytemctl status ssh  
+Befehl aktivieren  
+> sudo sytemctl enable --now ssh  
+
+
+
 
 
 
