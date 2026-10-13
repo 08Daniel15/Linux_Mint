@@ -59,4 +59,11 @@ Installation mit
 
 
 
+##Python Packages
+Python packages koennen mit dem pip installer installiert werden.  
+> python3 --version  
+> pip install numpy   
+oder alternativ 
+> sudo apt install python3-numpy   
 
+ 
