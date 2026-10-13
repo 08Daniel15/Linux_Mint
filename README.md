@@ -50,11 +50,12 @@ Befehl aktivieren
  
 
 
-
-
-
-
-
+##VS Code 
+Anleitung zur Installation von VS Code.  
+Herunterladen des .deb Packet   
+> https://code.visualstudio.com/docs/setup/linux  
+Installation mit
+> sudo apt install ./<fiel.deb>  
 
 
 

@@ -1,4 +1,11 @@
-#Hier stehen allgemeine Linux Dinge 
+Hier stehen allgemeine Linux Dinge 
+
+
+# rm
+remove - entfernt Dateien oder Ordner.  
+> rm Datei.txt  
+> rm -r Ordner  
+
 
 # scp
 Secure-Copy-Protocol    
@@ -9,4 +16,5 @@ Einen ganzen Ordner kopieren mit -r
   
  Dateien auf einen Server kopieren  
 > scp Datei.txt raspi@IP-Adresse:/Pfad  
+
 
