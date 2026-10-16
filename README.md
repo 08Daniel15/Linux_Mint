@@ -12,7 +12,7 @@ Git Installieren
 > sudo apt install git   
 
 Repository klonen  
-> git clone https://github.com/08Daniel15.LinuxMint.git  
+> git clone https://github.com/08Daniel15/LinuxMint.git  
 
 Benutzername global setzen  
 > git config --global user.name "Deine Name"  
