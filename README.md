@@ -27,8 +27,10 @@ Beim naechsen git push mit Benutzername anmelden und anstelle des Passwortes den
 ## SSH
 Pruefen ob ssh bereits installiert ist.  
 >ssh -V  
+
 Falls noch nicht, ssh installieren  
 >sudo apt install openssh-client  
+
 Verbindung ueber  
 >ssh Benutzername@IPAdresse  
 
