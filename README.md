@@ -52,20 +52,23 @@ Befehl aktivieren
  
 
 
-##VS Code 
+## VS Code 
 Anleitung zur Installation von VS Code.  
 Herunterladen des .deb Packet   
 > https://code.visualstudio.com/docs/setup/linux  
+
 Installation mit
 > sudo apt install ./<fiel.deb>  
 
 
 
-##Python Packages
+## Python Packages
 Python packages koennen mit dem pip installer installiert werden.  
 > python3 --version  
 > pip install numpy   
+
 oder alternativ 
 > sudo apt install python3-numpy   
+
 
  
