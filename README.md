@@ -17,6 +17,8 @@ Repository klonen
 Benutzername global setzen  
 > git config --global user.name "Deine Name"  
 > git config --global user.email "deine.Email@beispiel.com"  
+> git config -- global credential.helper store  
+
 
 Token fuer git erzeugen  
 github.com - Benutzer - Settings - Developer Settings - Personal Access Tokens - Generate new token > Generate new token (classic) - Namen vergeben - Haken bei repos setzen - Token sofort kopieren  
