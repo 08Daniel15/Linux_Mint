@@ -63,6 +63,20 @@ Installation mit
 > sudo apt install ./<fiel.deb>  
 
 
+## Inkscape
+> sudo apt update  
+> sudo apt install inkscape  
+> inkscape --version  
+
+
+
+
+
+## Draw.io
+> https://github.com/jgraph/drawio-desktop/releases/tag/v32.5.5  
+ 
+
+
 
 ## Python Packages
 Python packages koennen mit dem pip installer installiert werden.  
