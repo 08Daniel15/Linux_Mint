@@ -76,6 +76,18 @@ Installation mit
 > https://github.com/jgraph/drawio-desktop/releases/tag/v32.5.5  
  
 
+## Wiringpi
+Nur auf einem Raspberry Pi
+> sudo apt update   
+> sudo apt install git build-essential  
+> git clone https://github.com/WiringPi/WiringPi.git  
+Installationspaket erstellen
+> ./build debian  
+Das erzeugt Paket wird unter /WiringPi/debian-template installiert und kann mit
+> sudo apt install ./debin.........deb  
+
+
+
 
 
 ## Python Packages
